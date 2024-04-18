@@ -154,9 +154,8 @@ figure img{
 
 table{
     border-collapse: collapse; /*선 하나로 합치기*/
-    margin-left: 20px;
-    float: left;
-    width: 300px;
+    margin:0 auto;
+    width: 50vw;
 }
 
 table::after{
